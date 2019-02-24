@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\DyD.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\WindowsFormsApplication1.Demo2.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\WindowsFormsApplication1.FJuego.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\WindowsFormsApplication1.FSplash.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\DyD.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\bin\Release\DyD.exe
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\bin\Release\DyD.pdb
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\DyD.exe
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Release\DyD.pdb

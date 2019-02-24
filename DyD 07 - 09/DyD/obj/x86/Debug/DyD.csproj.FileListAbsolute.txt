@@ -1,0 +1,77 @@
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\bin\Debug\DyD.exe
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\bin\Debug\DyD.pdb
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\DyD.exe
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\usuario\documents\visual studio 2010\Projects\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\DyD.exe
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\SAMSUNG\Desktop\DyD\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+F:\DyD\DyD\obj\x86\Debug\DyD.exe
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\DyD\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+F:\DyD\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+F:\DyD\DyD\bin\Debug\DyD.exe
+F:\DyD\DyD\bin\Debug\DyD.pdb
+F:\DyD\DyD\obj\x86\Debug\DyD.pdb
+F:\DyD\DyD\obj\x86\Debug\DyD.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.exe
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\bin\Debug\DyD.exe
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\bin\Debug\DyD.pdb
+C:\Users\usuario\Desktop\DyD-20170906T103827Z-001\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.exe
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\bin\Debug\DyD.exe
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\bin\Debug\DyD.pdb
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG\Downloads\DyD 06_09\DyD\obj\x86\Debug\WindowsFormsApplication1.Demo2.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\DyD.exe
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\DyD.pdb
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\bin\Debug\DyD.exe
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\bin\Debug\DyD.pdb
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\DyD.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.Demo2.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+C:\Users\Facu\Desktop\Facultad\DyD 07 - 09\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.Cache
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\bin\Debug\DyD.exe
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\bin\Debug\DyD.pdb
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\DyD.csprojAssemblyReference.cache
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.ConfigJuego.resources
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.Demo2.resources
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.FJuego.resources
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\WindowsFormsApplication1.FSplash.resources
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\DyD.csproj.GenerateResource.cache
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\DyD.csproj.CoreCompileInputs.cache
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\DyD.exe
+E:\Facu\Facultad\1º Año\Facu (NO)\DyD 07 - 09\DyD\obj\x86\Debug\DyD.pdb
